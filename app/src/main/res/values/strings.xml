@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChangeSizeText</string>
+    <string name="txtMessage">Introduce un Mensaje</string>
+    <string name="btnSend">Mostrar Texto</string>
+    <string name="skSizeMax">100</string>
+    <string name="skProgress">34</string>
+</resources>
