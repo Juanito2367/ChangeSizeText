@@ -9,6 +9,13 @@ Una  vez que hemos introducido el texto, hemos seleccionado el tamaño y hemos p
 * Para hacer que funcione bien la nueva clase que hereda de `Application` hay que cambiar el `manifiest` el `android:name` de `Application`.
 * Nuestro `Message` es declarado en la `Activity` ConfigSizeTextActivity y es rellenado con el User Compartido, el Progress del `SeekBar` y el texto del `EditText`. Es transportado a traves de un `Bundle` con el `intent` que se comunica con la `Activity` ViewActivity.
 * Ya en ViewActivity se saca el objeto serializado del `Bundle` y se pone el Texto del `Message` en el `TextView` con el tamaño seleccionado por el Usuario.    
+# Clases Utilizadas
+* User
+* Message
+
+# Activity Utilizadas
+* ConfigSizeTextActivity
+* ViewActivity
 
 # Imagenes De La Aplicación
 
